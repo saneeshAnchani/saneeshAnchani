@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saneesh A S
 ===================================================================================================================================
 
@@ -8,22 +6,20 @@ System Engineer
 
 A system administrator, or sysadmin, Crypto Enthusiast, Systems engineer from Kerala, India. I have rich experience in managing, troubleshooting, licensing, and updating hardware and software assets.
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [My Portfolio](http://techyhacks.com)
-*   ✉️  You can contact me at [saneeshanchani@gmail.com](mailto:saneeshanchani@gmail.com)
-*   🧠  I'm learning Devops
-*   🤝  I'm open to collaborating on Server Hardening, Hosting related issues
-*   ⚡  I'm secretly a RAW agent don't tell anyone!### Skills 
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/saneeshAnchani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio](http://techyhacks.com)
+* ✉️  You can contact me at [saneeshanchani@gmail.com](mailto:saneeshanchani@gmail.com)
+* 🧠  I'm learning Devops
+* 🤝  I'm open to collaborating on Server Hardening, Hosting related issues
+* ⚡  I'm secretly a RAW agent don't tell anyone!
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/967969418376282122" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/saneeshAnchani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saneesh-a-s-48a754168/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11817175/saneesh-anchani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Saneesh_anchani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCiTgt0oeS7_EdBlkzYEFvkg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/saneeshAnchani/"><img src="https://github-readme-stats.vercel.app/api?username=saneeshAnchani/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saneeshAnchani/'s GitHub stats" /></a>
