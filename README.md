@@ -7,7 +7,7 @@ System Engineer
 A system administrator, or sysadmin, Crypto Enthusiast, Systems engineer from Kerala, India. I have rich experience in managing, troubleshooting, licensing, and updating hardware and software assets.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://techyhacks.com)
+* 🖥️  See my portfolio at [Techyhack](http://techyhacks.com)
 * ✉️  You can contact me at [saneeshanchani@gmail.com](mailto:saneeshanchani@gmail.com)
 * 🧠  I'm learning Devops
 * 🤝  I'm open to collaborating on Server Hardening, Hosting related issues
